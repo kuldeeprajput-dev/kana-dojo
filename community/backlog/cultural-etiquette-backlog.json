@@ -167,7 +167,7 @@
     "dont": "両側を塞ぐ",
     "note": "地域差に注意。",
     "id": 19,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -240,7 +240,7 @@
     "note": "中央は神様の通り道とされる。",
     "id": 27,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "温泉 2",
@@ -339,7 +339,7 @@
     "note": "丁寧さは姿勢で伝わる。",
     "id": 38,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "エスカレーター 2",
@@ -429,7 +429,7 @@
     "note": "共同浴場の基本ルール。",
     "id": 48,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "会議 3",
@@ -510,7 +510,7 @@
     "note": "ゴミ箱が少ない地域がある。",
     "id": 57,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "お辞儀 3",
@@ -798,7 +798,7 @@
     "note": "合意形成を重視する文化。",
     "id": 89,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "列に並ぶ時 5",
@@ -978,7 +978,7 @@
     "note": "合意形成を重視する文化。",
     "id": 109,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "列に並ぶ時 6",
