@@ -168,10 +168,6 @@ export default async function RootLayout({ children }: RootLayoutProps) {
           href='https://translation.googleapis.com'
           crossOrigin='anonymous'
         />
-        <link
-          rel='dns-prefetch'
-          href='https://pagead2.googlesyndication.com'
-        />
         <Script
           async
           src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4838010337597054'
