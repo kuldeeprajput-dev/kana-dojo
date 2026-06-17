@@ -43,4 +43,4 @@ Downstream DeepSeek, Supabase Storage, or GitHub failures do not make the webhoo
 - It does not expose Supabase, GitHub, Tally, or DeepSeek secrets to client code.
 - Duplicate Tally deliveries return `200` and reuse the existing report.
 
-See `shared/infra/server/bugReports/README.md` for the full setup checklist and data model.
+See `shared/infra/server/bugReports/BUG_REPORT_PIPELINE.md` for the full setup checklist and data model.

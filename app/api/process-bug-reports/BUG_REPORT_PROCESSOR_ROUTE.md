@@ -63,4 +63,4 @@ Reports are processed oldest-first.
 - GitHub failure: mark `retryable_error`.
 - Fifth failed attempt: mark `failed`.
 
-See `shared/infra/server/bugReports/README.md` for schema, setup, and rollout details.
+See `shared/infra/server/bugReports/BUG_REPORT_PIPELINE.md` for schema, setup, and rollout details.
